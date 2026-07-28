@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# SysID Pipeline outputs
+processed_datasets/
+sysid_results/
+rosbags
+
+# uv 
+.venv/
+uv.lock
